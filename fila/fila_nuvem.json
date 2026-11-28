@@ -113,6 +113,18 @@
   ]
  },
  {
+  "id": "ESCOVA|202612011900|Reel|19h_REEL_natal-presente-muda-tudo-franquia",
+  "loja": "ESCOVA",
+  "quando": "2026-12-01T19:00",
+  "fmt": "Reel",
+  "nome": "Reel Natal O presente muda tudo (vídeo da franquia, áudio original)",
+  "status": "AUTO",
+  "legenda": "O Natal chegou na Fast Escova Limão com novidades para presentear e aproveitar cada momento. 🎄✨\nÁrvore Premiada, Lenços Colecionáveis, Cartão Fidelidade de Natal, Kit Travel Premium Repair e Plano Anual: pergunte na recepção.\nFast Escova Limão · Av. Dep. Emílio Carlos, 358\n#FastEscova #OPresenteMudaTudo #PostFastEscova",
+  "arquivos": [
+   "4b510df956d6cda0.mp4"
+  ]
+ },
+ {
   "id": "ESCOVA|202612020800|Story|8h_STORY_estamos-abertos-arte-do-dia",
   "loja": "ESCOVA",
   "quando": "2026-12-02T08:00",
@@ -2209,6 +2221,30 @@
   ]
  },
  {
+  "id": "ESCOVA|202612250900|Story|9h_STORY_estamos-abertos-feriado-25-12",
+  "loja": "ESCOVA",
+  "quando": "2026-12-25T09:00",
+  "fmt": "Story",
+  "nome": "Estamos abertos, feriado 9h às 15h (Natal)",
+  "status": "AUTO",
+  "legenda": "",
+  "arquivos": [
+   "1d9c2b781bd0ab34.jpg"
+  ]
+ },
+ {
+  "id": "SPA|202612250900|Story|9h_STORY_estamos-abertos-feriado-25-12",
+  "loja": "SPA",
+  "quando": "2026-12-25T09:00",
+  "fmt": "Story",
+  "nome": "Estamos abertos, feriado 9h às 15h (Natal)",
+  "status": "AUTO",
+  "legenda": "",
+  "arquivos": [
+   "767cefd554da7151.jpg"
+  ]
+ },
+ {
   "id": "ESCOVA|202612260800|Story|8h_STORY_estamos-abertos",
   "loja": "ESCOVA",
   "quando": "2026-12-26T08:00",
@@ -2674,6 +2710,30 @@
   "legenda": "Feliz Ano Novo. 🩵 2027 começa cuidando de você. Massagem é um cuidado complementar e não substitui acompanhamento de saúde. Fast Spa Limão · Av. Dep. Emílio Carlos #FastSpaLimao #PresentearAlguem",
   "arquivos": [
    "a9fb9b153eb5409b.jpg"
+  ]
+ },
+ {
+  "id": "ESCOVA|202701010900|Story|9h_STORY_estamos-abertos-feriado-01-01",
+  "loja": "ESCOVA",
+  "quando": "2027-01-01T09:00",
+  "fmt": "Story",
+  "nome": "Estamos abertos, feriado 9h às 15h (Ano Novo)",
+  "status": "AUTO",
+  "legenda": "",
+  "arquivos": [
+   "881f31e6410bbadd.jpg"
+  ]
+ },
+ {
+  "id": "SPA|202701010900|Story|9h_STORY_estamos-abertos-feriado-01-01",
+  "loja": "SPA",
+  "quando": "2027-01-01T09:00",
+  "fmt": "Story",
+  "nome": "Estamos abertos, feriado 9h às 15h (Ano Novo)",
+  "status": "AUTO",
+  "legenda": "",
+  "arquivos": [
+   "3d713aa208271ef5.jpg"
   ]
  }
 ]

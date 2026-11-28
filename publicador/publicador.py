@@ -146,7 +146,7 @@ def carrega_fila(caminho):
             if not m or not it.get('arquivos'):
                 continue
             mes = it.get('mes', 12)
-            quando = datetime.datetime(2026, mes, it['dia'], int(m.group(1)), int(m.group(2) or 0))
+            quando = datetime.datetime(it.get('ano', 2026), mes, it['dia'], int(m.group(1)), int(m.group(2) or 0))
             d = '%s/2026-12-%02d_%s/' % (loja, it['dia'], DN[quando.weekday()])
             if it.get('abs'):
                 arqs = list(it['arquivos'])
